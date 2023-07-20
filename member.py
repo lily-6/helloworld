@@ -18,7 +18,7 @@ mlist.append(newmember)
 
 
 ### 以下に自分を追加する ###
-newmember = Member("大河原翔太", "よろしくお願いいたします。")
+newmember = Member("山口 凜々子", "こんにちは")
 mlist.append(newmember)
 
 
