@@ -19,14 +19,14 @@ mlist.append(newmember)
 ### 以下に自分を追加する ###
 
 newmember = Member("山口 凜々子", "こんにちは")
+mlist.append(newmember)
 
 newmember = Member("房州優樹", "よろしくです！")
 mlist.append(newmember)
 
-
 ### 以下に自分を追加する ###
 newmember = Member("吉田 羅生", "よろしくです！")
-
+mlist.append(newmember)
 
 ### 以下に自分を追加する ###
 newmember = Member("渡邉　雄太", "よろしく！")
